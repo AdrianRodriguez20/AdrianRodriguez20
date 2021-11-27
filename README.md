@@ -1,4 +1,4 @@
-<img   src="https://i.ibb.co/L9XhqJx/A43-B8-B8-C-6-A49-483-B-9-F45-FE12-FB89361-F.png" width=300px height=300px  align="right">
+<a  href="https://www.linkedin.com/in/adrian-rodriguez-fuentes/"><img   src="https://i.ibb.co/L9XhqJx/A43-B8-B8-C-6-A49-483-B-9-F45-FE12-FB89361-F.png" width=300px height=300px  align="right"></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
    <a href="https://www.linkedin.com/in/adrian-rodriguez-fuentes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adrian-rodriguez-fuentes/" height="30" width="40" /></a>
